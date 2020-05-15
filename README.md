@@ -1,5 +1,5 @@
 # Front-end-projects
-## This repo showcases all my front end projects
+## This repo showcases all my front-end projects
 
 P1: Chemical Engineering Associaltion website https://github.com/shreyansjain012/chea-website
 
